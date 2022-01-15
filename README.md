@@ -1,6 +1,8 @@
 # Text_Summarization
 Summarize the text without lose important details using spacy (NLP library)
 
+![](https://i.imgur.com/csNWqkU.jpeg)
+
 # Dataset: 
 - Scraped from ulii.org
 
