@@ -1,5 +1,5 @@
 # Text_Summarization
-Summarize the text without lose important details using spacy (NLP library)
+Summarize the text without losing critical information using spacy (NLP library)
 
 ![](https://i.imgur.com/csNWqkU.jpeg)
 
